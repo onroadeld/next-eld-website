@@ -72,7 +72,6 @@ const Features = () => {
       setSmallParallaxRotate(res.progress * -120);
     },
   });
-  console.log(smallParallaxRotate);
 
   return (
     <motion.div
