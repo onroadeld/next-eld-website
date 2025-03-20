@@ -1,8 +1,8 @@
 import Bullet from "@/components/ui/Bullet";
 import PlayMarketIcon from "@/assets/icons/play-market.svg";
 import AppStoreIcon from "@/assets/icons/app-store.svg";
-import Iphone from "@/assets/images/iphone.png";
-import Tablet from "@/assets/images/tablet.png";
+import Iphone from "@/assets/images/iphone.webp";
+import Tablet from "@/assets/images/tablet.webp";
 import Image from "next/image";
 import Link from "next/link";
 import { Variants, motion } from "framer-motion";

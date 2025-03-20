@@ -3,9 +3,9 @@
 import { Button } from "@/components/ui/button";
 import Header from "@/layout/header";
 import Image from "next/image";
-import trucksImage from "@/assets/images/trucks.png";
-import smallTrucksImage from "@/assets/images/truck-small.png";
-import xyz from "@/assets/images/xyz.png";
+import trucksImage from "@/assets/images/trucks.webp";
+import smallTrucksImage from "@/assets/images/truck-small.webp";
+import xyz from "@/assets/images/xyz.webp";
 import Bullet from "@/components/ui/Bullet";
 import { useRouter } from "next/navigation";
 import { Variants, motion } from "framer-motion";

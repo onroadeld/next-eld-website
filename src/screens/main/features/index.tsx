@@ -1,7 +1,7 @@
 "use client";
 
 import { useParallax } from "react-scroll-parallax";
-import IPhone from "@/assets/images/iphone.png";
+import IPhone from "@/assets/images/iphone.webp";
 import Image from "next/image";
 import Bullet from "@/components/ui/Bullet";
 import { Variants, motion } from "framer-motion";

@@ -1,6 +1,6 @@
 import Bullet from "@/components/ui/Bullet";
 import Image from "next/image";
-import truckImg from "@/assets/images/trucks.png";
+import truckImg from "@/assets/images/trucks.webp";
 import { Variants, motion } from "framer-motion";
 
 const fadeUpVariant: Variants = {

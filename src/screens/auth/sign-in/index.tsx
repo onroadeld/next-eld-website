@@ -3,7 +3,7 @@
 import Logo from "@/assets/icons/logo.svg";
 import LeftArrowIcon from "@/assets/icons/arrow-left.svg";
 import GoogleIcon from "@/assets/icons/google.svg";
-import TruckImage from "@/assets/images/truck-small.png";
+import TruckImage from "@/assets/images/truck-small.webp";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import Image from "next/image";
