@@ -96,21 +96,21 @@ const Footer = () => {
         </p>
         <div className="flex gap-7">
           <Link
-            href="https://t.me/onroad_support"
+            href="https://t.me"
             target="_blank"
             className="bg-primary cursor-pointer rounded-xl p-2.5"
           >
             <TelegramIcon />
           </Link>
           <Link
-            href="https://api.whatsapp.com/send/?phone=14124802052&text=Hello+Onroad+Networks&type=phone_number&app_absent=0"
+            href="https://api.whatsapp.com"
             target="_blank"
             className="bg-primary cursor-pointer rounded-xl p-2.5"
           >
             <WhatsAppIcon />
           </Link>
           <Link
-            href="https://www.instagram.com/diversitygo/"
+            href="https://www.instagram.com"
             target="_blank"
             className="bg-primary cursor-pointer rounded-xl p-2.5"
           >
